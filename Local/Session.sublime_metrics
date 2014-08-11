@@ -1,0 +1,52 @@
+{
+	"licensed": true,
+	"packages":
+	[
+		"3024 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeLinter-ruby",
+		"Theme - Soda",
+		"3024 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeLinter-ruby",
+		"Theme - Soda",
+		"3024 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeLinter-ruby",
+		"Theme - Soda",
+		"3024 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"SublimeLinter-ruby",
+		"Theme - Soda"
+	],
+	"startup_sec": 0.451121,
+	"syntax":
+	{
+		"HTML (Rails)": 11,
+		"JSON": 14,
+		"Markdown": 2,
+		"Ruby": 15
+	},
+	"time": 1407735647
+}

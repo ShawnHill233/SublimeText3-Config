@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_face": "Ubuntu Mono",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
+	"vintage_start_in_command_mode": true
+}
